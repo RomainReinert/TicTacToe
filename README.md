@@ -1,5 +1,5 @@
 # TicTacToe
-This work has been submitted in partial fulfillment of the requirements for the "Principles of Distributed Ledgers" course - MSc AI&ML of Imperial College London.  
+This work has been submitted in partial fulfillment of the requirements for the "Principles of Distributed Ledgers" course - MSc AI&ML of Imperial College London. The following instructions were given.  
 ## Instructions
 You are given a decentralized application for a tic-tac-toe game. The game isn't yet functional, and we expect you to know the rules of the game.  
 We hence ask you to please complete the missing parts, identified with `/*Please complete the code here.*/`.  
