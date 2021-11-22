@@ -5,7 +5,7 @@ We hence ask you to please complete the missing parts, identified with `/*Please
 We packaged the entire code into a docker container.  
   
 ## Instructions
-Once you completed the contract (`contracts/TicTacToe.sol`), you can run `docker build -t tic-tac-toe .` to build the tic-tac-toe docker image.  
+Once you completed the contract (`contracts/TicTacToe.sol`), you can run `docker build -t tic-tac-toe` to build the tic-tac-toe docker image.  
   
 We provide several test cases to test the basic functions of your contract, which however is not complete as you are supposed to test your application through the UI and with MetaMask. You can anyways run `docker run tic-tac-toe npm test` to check the incomplete test results and you are encouraged to extend the tests yourself, if you like. Our grading script will follow a similar methodology as the test script (i.e., to test your smart contract and grade based on the test results).
   
@@ -29,6 +29,4 @@ You can get 100% of the grades with 10 points, distributed as follows over the 7
 `myTurn()` : 1 point  
 `_myTurn()` : 1 point  
 `validMove()` : 1 point  
-`_validMove()` : 1 point  
-  
-Once you're done, please upload your zip file containing the entire project on Cate.
+`_validMove()` : 1 point
